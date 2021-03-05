@@ -1,0 +1,94 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "组件库"
+			}
+		},
+		{
+			"path": "pages/components/button/button",
+			"style": {
+				"navigationBarTitleText": "Button"
+			}
+		},
+		{
+			"path": "pages/components/icon/icon",
+			"style": {
+				"navigationBarTitleText": "Icon"
+			}
+		},
+		{
+			"path": "pages/components/radio/radio",
+			"style": {
+				"navigationBarTitleText": "Radio"
+			}
+		},
+		{
+			"path": "pages/components/checkbox/checkbox",
+			"style": {
+				"navigationBarTitleText": "Checkbox"
+			}
+		},
+		{
+			"path": "pages/components/cell/cell",
+			"style": {
+				"navigationBarTitleText": "Cell"
+			}
+		},
+		{
+			"path": "pages/components/switch/switch",
+			"style": {
+				"navigationBarTitleText": "Switch"
+			}
+		},
+		{
+			"path": "pages/components/input/input",
+			"style": {
+				"navigationBarTitleText": "Input"
+			}
+		},
+		{
+			"path": "pages/components/picker/picker",
+			"style": {
+				"navigationBarTitleText": "Picker"
+			}
+		},
+		{
+			"path": "pages/components/dialog/dialog",
+			"style": {
+				"navigationBarTitleText": "Dialog"
+			}
+		},
+		{
+			"path": "pages/components/popup/popup",
+			"style": {
+				"navigationBarTitleText": "Popup"
+			}
+		},
+		{
+			"path": "pages/components/picker/picker",
+			"style": {
+				"navigationBarTitleText": "Picker"
+			}
+		},
+		{
+			"path": "pages/components/actionsheet/actionsheet",
+			"style": {
+				"navigationBarTitleText": "Actionsheet"
+			}
+		},
+		{
+			"path": "pages/components/timeline/timeline",
+			"style": {
+				"navigationBarTitleText": "Timeline"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#F8F8F8"
+	}
+}
